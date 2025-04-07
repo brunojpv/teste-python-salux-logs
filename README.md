@@ -97,8 +97,8 @@ pip install -r requirements.txt
 
 ## ✍️ Autor
 
-Bruno Vieira  
-Desenvolvedor .NET e Python  
-Experiência com soluções de alta performance e testes técnicos  
+**Bruno Vieira**
+💻 Desenvolvedor .NET e Python
+🔗 [linkedin.com/in/brunojpv](https://www.linkedin.com/in/brunojpv)
 
 > Projeto criado para teste técnico com simulação real e ambientes controlados.
