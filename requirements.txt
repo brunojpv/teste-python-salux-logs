@@ -1,0 +1,4 @@
+pandas
+aiohttp
+psycopg2-binary
+pytest
