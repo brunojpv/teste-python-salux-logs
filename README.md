@@ -57,9 +57,9 @@ pip install -r requirements.txt
 
 2. No `tests/test_logs.py`, altere o import para o modo real desejado:
 ```python
-from process_log_copy_real import process_log
+from process_log_copy import process_log
 # ou
-from process_log_executemany_real import process_log
+from process_log_executemany import process_log
 ```
 
 3. Rode os testes:
