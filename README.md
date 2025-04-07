@@ -39,7 +39,7 @@ Host: localhost
 Porta: 5432
 Banco: test
 Usuário: postgres
-Senha: secret (ou sua senha personalizada)
+Senha: salux
 ```
 
 3. Tabela `logs` criada automaticamente via `init/init.sql`
